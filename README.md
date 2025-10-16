@@ -1,10 +1,10 @@
-# Hola, soy Gus
+# Hello there! I'm Gus
 
 Web | Software | Database Developer
 
 - 📍 Córdoba, Argentina
-- 🌐 Portafolio: https://portfoliogjg.netlify.app
-- ✉️ Contacto: gjgonzalez@hotmail.es
+- 🌐 Portfolio: https://portfoliogjg.netlify.app
+- ✉️ Contact: gjgonzalez@hotmail.es
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalez-gustavo-javier/)
