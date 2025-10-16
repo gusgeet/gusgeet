@@ -19,9 +19,12 @@ Web | Software | Database Developer
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Firebird](https://img.shields.io/badge/Firebird-EE3E3E?logo=firebird&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Dapper](https://img.shields.io/badge/Dapper-68217A?style=flat-square&logo=.net&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=flat-square&logo=.net&logoColor=white)
+
 
 ![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxtdotjs&logoColor=white)
