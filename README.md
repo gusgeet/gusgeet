@@ -7,8 +7,7 @@ Web | Software | Database Developer
 - ✉️ Contacto: gjgonzalez@hotmail.es
 
 ## Socials
-[![X](https://img.shields.io/badge/X-000?logo=x&logoColor=white)](https://x.com/tuusuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalez-gustavo-javier/)
 
 ## Tech Stack
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
