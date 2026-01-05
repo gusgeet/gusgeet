@@ -36,9 +36,3 @@ Web | Software | Database Developer
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styledcomponents&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=gusgeet&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusgeet&layout=compact)
-
-## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=gusgeet&theme=flat&margin-w=10)](https://github-profile-trophy.vercel.app/?username=gusgeet&theme=flat&margin-w=10)
